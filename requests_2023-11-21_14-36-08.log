@@ -1,0 +1,149 @@
+2023/11/21 14:36:08 Starting USER server on port 8080
+2023/11/21 14:36:20 Time: 2023-11-21T14:36:20+11:00, Method: GET, URL: /, RemoteAddr: [::1]:43588
+2023/11/21 14:36:20 Headers:
+2023/11/21 14:36:20   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+2023/11/21 14:36:20   Accept-Encoding: gzip, deflate, br
+2023/11/21 14:36:20   Sec-Ch-Ua-Mobile: ?0
+2023/11/21 14:36:20   Sec-Purpose: prefetch;prerender
+2023/11/21 14:36:20   Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2023/11/21 14:36:20   Sec-Fetch-Site: none
+2023/11/21 14:36:20   Sec-Fetch-User: ?1
+2023/11/21 14:36:20   If-Modified-Since: Tue, 21 Nov 2023 02:43:50 GMT
+2023/11/21 14:36:20   Connection: keep-alive
+2023/11/21 14:36:20   Sec-Ch-Ua: "Google Chrome";v="119", "Chromium";v="119", "Not?A_Brand";v="24"
+2023/11/21 14:36:20   Sec-Ch-Ua-Platform: "Windows"
+2023/11/21 14:36:20   Upgrade-Insecure-Requests: 1
+2023/11/21 14:36:20   Purpose: prefetch
+2023/11/21 14:36:20   Sec-Fetch-Mode: navigate
+2023/11/21 14:36:20   Sec-Fetch-Dest: document
+2023/11/21 14:36:20   Accept-Language: en-AU,en;q=0.9,vi-VN;q=0.8,vi;q=0.7,ja-JP;q=0.6,ja;q=0.5,en-GB;q=0.4,en-US;q=0.3
+2023/11/21 14:36:20   Cookie: _ga=GA1.1.481496242.1698312425; _ga_JB531XVXS6=GS1.1.1698312425.1.0.1698312427.0.0.0
+2023/11/21 14:36:20 Body: [Empty]
+2023/11/21 14:36:20 Form Values: [None]
+2023/11/21 14:36:20 
+2023/11/21 14:36:20 Time: 2023-11-21T14:36:20+11:00, Method: GET, URL: /my-css.css, RemoteAddr: [::1]:43588
+2023/11/21 14:36:20 Headers:
+2023/11/21 14:36:20   Sec-Ch-Ua-Platform: "Windows"
+2023/11/21 14:36:20   Sec-Fetch-Mode: no-cors
+2023/11/21 14:36:20   Cookie: _ga=GA1.1.481496242.1698312425; _ga_JB531XVXS6=GS1.1.1698312425.1.0.1698312427.0.0.0
+2023/11/21 14:36:20   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+2023/11/21 14:36:20   Accept-Language: en-AU,en;q=0.9,vi-VN;q=0.8,vi;q=0.7,ja-JP;q=0.6,ja;q=0.5,en-GB;q=0.4,en-US;q=0.3
+2023/11/21 14:36:20   Sec-Purpose: prefetch;prerender
+2023/11/21 14:36:20   Sec-Ch-Ua-Mobile: ?0
+2023/11/21 14:36:20   Connection: keep-alive
+2023/11/21 14:36:20   Sec-Ch-Ua: "Google Chrome";v="119", "Chromium";v="119", "Not?A_Brand";v="24"
+2023/11/21 14:36:20   Accept: text/css,*/*;q=0.1
+2023/11/21 14:36:20   Purpose: prefetch
+2023/11/21 14:36:20   Sec-Fetch-Site: same-origin
+2023/11/21 14:36:20   Sec-Fetch-Dest: style
+2023/11/21 14:36:20   Referer: http://localhost:8080/
+2023/11/21 14:36:20   Accept-Encoding: gzip, deflate, br
+2023/11/21 14:36:20 Body: [Empty]
+2023/11/21 14:36:20 Form Values: [None]
+2023/11/21 14:36:20 
+2023/11/21 14:36:29 Time: 2023-11-21T14:36:29+11:00, Method: GET, URL: /, RemoteAddr: 127.0.0.1:58852
+2023/11/21 14:36:29 Headers:
+2023/11/21 14:36:29   Sec-Ch-Ua: "Google Chrome";v="119", "Chromium";v="119", "Not?A_Brand";v="24"
+2023/11/21 14:36:29   Sec-Fetch-Site: same-origin
+2023/11/21 14:36:29   X-Forwarded-For: 163.53.144.74
+2023/11/21 14:36:29   Accept-Language: en-AU,en;q=0.9,vi-VN;q=0.8,vi;q=0.7,ja-JP;q=0.6,ja;q=0.5,en-GB;q=0.4,en-US;q=0.3
+2023/11/21 14:36:29   Cookie: abuse_interstitial=1a0e-163-53-144-74.ngrok-free.app
+2023/11/21 14:36:29   Sec-Ch-Ua-Mobile: ?0
+2023/11/21 14:36:29   X-Forwarded-Host: 1a0e-163-53-144-74.ngrok-free.app
+2023/11/21 14:36:29   X-Forwarded-Proto: https
+2023/11/21 14:36:29   Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2023/11/21 14:36:29   Accept-Encoding: gzip, deflate, br
+2023/11/21 14:36:29   Cache-Control: max-age=0
+2023/11/21 14:36:29   Sec-Ch-Ua-Platform: "Windows"
+2023/11/21 14:36:29   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+2023/11/21 14:36:29   Sec-Fetch-Dest: document
+2023/11/21 14:36:29   Sec-Fetch-Mode: navigate
+2023/11/21 14:36:29   Sec-Fetch-User: ?1
+2023/11/21 14:36:29   Upgrade-Insecure-Requests: 1
+2023/11/21 14:36:29 Body: [Empty]
+2023/11/21 14:36:29 Form Values: [None]
+2023/11/21 14:36:29 
+2023/11/21 14:36:29 Time: 2023-11-21T14:36:29+11:00, Method: GET, URL: /my-css, RemoteAddr: 127.0.0.1:58852
+2023/11/21 14:36:29 Headers:
+2023/11/21 14:36:29   Accept-Encoding: gzip, deflate, br
+2023/11/21 14:36:29   Accept-Language: en-AU,en;q=0.9,vi-VN;q=0.8,vi;q=0.7,ja-JP;q=0.6,ja;q=0.5,en-GB;q=0.4,en-US;q=0.3
+2023/11/21 14:36:29   Sec-Fetch-Dest: style
+2023/11/21 14:36:29   X-Forwarded-Proto: https
+2023/11/21 14:36:29   Sec-Ch-Ua-Mobile: ?0
+2023/11/21 14:36:29   X-Forwarded-Host: 1a0e-163-53-144-74.ngrok-free.app
+2023/11/21 14:36:29   Sec-Ch-Ua: "Google Chrome";v="119", "Chromium";v="119", "Not?A_Brand";v="24"
+2023/11/21 14:36:29   Sec-Ch-Ua-Platform: "Windows"
+2023/11/21 14:36:29   Sec-Fetch-Mode: no-cors
+2023/11/21 14:36:29   Accept: text/css,*/*;q=0.1
+2023/11/21 14:36:29   Cookie: abuse_interstitial=1a0e-163-53-144-74.ngrok-free.app
+2023/11/21 14:36:29   Referer: https://1a0e-163-53-144-74.ngrok-free.app/
+2023/11/21 14:36:29   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+2023/11/21 14:36:29   Sec-Fetch-Site: same-origin
+2023/11/21 14:36:29   X-Forwarded-For: 163.53.144.74
+2023/11/21 14:36:29 Body: [Empty]
+2023/11/21 14:36:29 Form Values: [None]
+2023/11/21 14:36:29 
+2023/11/21 14:36:29 Time: 2023-11-21T14:36:29+11:00, Method: GET, URL: /my-css.css, RemoteAddr: 127.0.0.1:58854
+2023/11/21 14:36:29 Headers:
+2023/11/21 14:36:29   Referer: https://1a0e-163-53-144-74.ngrok-free.app/
+2023/11/21 14:36:29   Sec-Ch-Ua-Platform: "Windows"
+2023/11/21 14:36:29   X-Forwarded-Host: 1a0e-163-53-144-74.ngrok-free.app
+2023/11/21 14:36:29   Accept-Encoding: gzip, deflate, br
+2023/11/21 14:36:29   Accept-Language: en-AU,en;q=0.9,vi-VN;q=0.8,vi;q=0.7,ja-JP;q=0.6,ja;q=0.5,en-GB;q=0.4,en-US;q=0.3
+2023/11/21 14:36:29   Cookie: abuse_interstitial=1a0e-163-53-144-74.ngrok-free.app
+2023/11/21 14:36:29   Sec-Ch-Ua: "Google Chrome";v="119", "Chromium";v="119", "Not?A_Brand";v="24"
+2023/11/21 14:36:29   Sec-Fetch-Site: same-origin
+2023/11/21 14:36:29   X-Forwarded-For: 163.53.144.74
+2023/11/21 14:36:29   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+2023/11/21 14:36:29   Sec-Fetch-Dest: style
+2023/11/21 14:36:29   Sec-Fetch-Mode: no-cors
+2023/11/21 14:36:29   Accept: text/css,*/*;q=0.1
+2023/11/21 14:36:29   Sec-Ch-Ua-Mobile: ?0
+2023/11/21 14:36:29   X-Forwarded-Proto: https
+2023/11/21 14:36:29 Body: [Empty]
+2023/11/21 14:36:29 Form Values: [None]
+2023/11/21 14:36:29 
+2023/11/21 14:36:29 Time: 2023-11-21T14:36:29+11:00, Method: GET, URL: /favicon.ico, RemoteAddr: 127.0.0.1:58854
+2023/11/21 14:36:29 Headers:
+2023/11/21 14:36:29   Sec-Fetch-Site: same-origin
+2023/11/21 14:36:29   Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2023/11/21 14:36:29   Sec-Ch-Ua-Mobile: ?0
+2023/11/21 14:36:29   X-Forwarded-For: 163.53.144.74
+2023/11/21 14:36:29   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+2023/11/21 14:36:29   Referer: https://1a0e-163-53-144-74.ngrok-free.app/
+2023/11/21 14:36:29   Sec-Ch-Ua: "Google Chrome";v="119", "Chromium";v="119", "Not?A_Brand";v="24"
+2023/11/21 14:36:29   X-Forwarded-Host: 1a0e-163-53-144-74.ngrok-free.app
+2023/11/21 14:36:29   X-Forwarded-Proto: https
+2023/11/21 14:36:29   Cookie: abuse_interstitial=1a0e-163-53-144-74.ngrok-free.app
+2023/11/21 14:36:29   Sec-Ch-Ua-Platform: "Windows"
+2023/11/21 14:36:29   Sec-Fetch-Dest: image
+2023/11/21 14:36:29   Accept-Encoding: gzip, deflate, br
+2023/11/21 14:36:29   Accept-Language: en-AU,en;q=0.9,vi-VN;q=0.8,vi;q=0.7,ja-JP;q=0.6,ja;q=0.5,en-GB;q=0.4,en-US;q=0.3
+2023/11/21 14:36:29   Sec-Fetch-Mode: no-cors
+2023/11/21 14:36:29 Body: [Empty]
+2023/11/21 14:36:29 Form Values: [None]
+2023/11/21 14:36:29 
+2023/11/21 14:36:33 Time: 2023-11-21T14:36:33+11:00, Method: GET, URL: /my-css, RemoteAddr: 127.0.0.1:58854
+2023/11/21 14:36:33 Headers:
+2023/11/21 14:36:33   Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2023/11/21 14:36:33   If-Modified-Since: Tue, 21 Nov 2023 03:35:47 GMT
+2023/11/21 14:36:33   Sec-Ch-Ua-Platform: "Windows"
+2023/11/21 14:36:33   Sec-Fetch-Mode: navigate
+2023/11/21 14:36:33   Accept-Encoding: gzip, deflate, br
+2023/11/21 14:36:33   Accept-Language: en-AU,en;q=0.9,vi-VN;q=0.8,vi;q=0.7,ja-JP;q=0.6,ja;q=0.5,en-GB;q=0.4,en-US;q=0.3
+2023/11/21 14:36:33   Cookie: abuse_interstitial=1a0e-163-53-144-74.ngrok-free.app
+2023/11/21 14:36:33   Sec-Ch-Ua: "Google Chrome";v="119", "Chromium";v="119", "Not?A_Brand";v="24"
+2023/11/21 14:36:33   Sec-Fetch-Site: none
+2023/11/21 14:36:33   Upgrade-Insecure-Requests: 1
+2023/11/21 14:36:33   X-Forwarded-Proto: https
+2023/11/21 14:36:33   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+2023/11/21 14:36:33   Sec-Ch-Ua-Mobile: ?0
+2023/11/21 14:36:33   Sec-Fetch-Dest: document
+2023/11/21 14:36:33   Sec-Fetch-User: ?1
+2023/11/21 14:36:33   X-Forwarded-For: 163.53.144.74
+2023/11/21 14:36:33   X-Forwarded-Host: 1a0e-163-53-144-74.ngrok-free.app
+2023/11/21 14:36:33 Body: [Empty]
+2023/11/21 14:36:33 Form Values: [None]
+2023/11/21 14:36:33 
+2023/11/21 14:37:23 Got signal: interrupt, exiting.
+2023/11/21 14:37:23 Error starting USER server: http: Server closed
