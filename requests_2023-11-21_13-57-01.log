@@ -1,0 +1,22 @@
+2023/11/21 13:57:01 Starting USER server on port 8080
+2023/11/21 13:57:07 Time: 2023-11-21T13:57:07+11:00, Method: GET, URL: /, RemoteAddr: [::1]:43268
+2023/11/21 13:57:07 Headers:
+2023/11/21 13:57:07   Sec-Ch-Ua: "Google Chrome";v="119", "Chromium";v="119", "Not?A_Brand";v="24"
+2023/11/21 13:57:07   If-Modified-Since: Tue, 21 Nov 2023 02:43:50 GMT
+2023/11/21 13:57:07   Sec-Fetch-Site: none
+2023/11/21 13:57:07   Cookie: _ga=GA1.1.481496242.1698312425; _ga_JB531XVXS6=GS1.1.1698312425.1.0.1698312427.0.0.0
+2023/11/21 13:57:07   Connection: keep-alive
+2023/11/21 13:57:07   Sec-Ch-Ua-Mobile: ?0
+2023/11/21 13:57:07   Sec-Ch-Ua-Platform: "Windows"
+2023/11/21 13:57:07   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+2023/11/21 13:57:07   Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2023/11/21 13:57:07   Accept-Encoding: gzip, deflate, br
+2023/11/21 13:57:07   Upgrade-Insecure-Requests: 1
+2023/11/21 13:57:07   Sec-Fetch-Mode: navigate
+2023/11/21 13:57:07   Sec-Fetch-User: ?1
+2023/11/21 13:57:07   Sec-Fetch-Dest: document
+2023/11/21 13:57:07   Accept-Language: en-AU,en;q=0.9,vi-VN;q=0.8,vi;q=0.7,ja-JP;q=0.6,ja;q=0.5,en-GB;q=0.4,en-US;q=0.3
+2023/11/21 13:57:07 Body: [Empty]
+2023/11/21 13:57:07 Form Values: [None]
+2023/11/21 13:57:45 Got signal: interrupt, exiting.
+2023/11/21 13:57:45 Error starting USER server: http: Server closed

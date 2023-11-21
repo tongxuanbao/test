@@ -1,0 +1,64 @@
+2023/11/21 13:57:46 Starting USER server on port 8080
+2023/11/21 13:57:52 Time: 2023-11-21T13:57:52+11:00, Method: GET, URL: /, RemoteAddr: [::1]:46544
+2023/11/21 13:57:52 Headers:
+2023/11/21 13:57:52   Sec-Fetch-Mode: navigate
+2023/11/21 13:57:52   Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2023/11/21 13:57:52   Sec-Fetch-User: ?1
+2023/11/21 13:57:52   Cookie: _ga=GA1.1.481496242.1698312425; _ga_JB531XVXS6=GS1.1.1698312425.1.0.1698312427.0.0.0
+2023/11/21 13:57:52   Accept-Language: en-AU,en;q=0.9,vi-VN;q=0.8,vi;q=0.7,ja-JP;q=0.6,ja;q=0.5,en-GB;q=0.4,en-US;q=0.3
+2023/11/21 13:57:52   If-Modified-Since: Tue, 21 Nov 2023 02:43:50 GMT
+2023/11/21 13:57:52   Connection: keep-alive
+2023/11/21 13:57:52   Sec-Ch-Ua-Mobile: ?0
+2023/11/21 13:57:52   Sec-Ch-Ua-Platform: "Windows"
+2023/11/21 13:57:52   Sec-Fetch-Dest: document
+2023/11/21 13:57:52   Sec-Fetch-Site: none
+2023/11/21 13:57:52   Accept-Encoding: gzip, deflate, br
+2023/11/21 13:57:52   Cache-Control: max-age=0
+2023/11/21 13:57:52   Sec-Ch-Ua: "Google Chrome";v="119", "Chromium";v="119", "Not?A_Brand";v="24"
+2023/11/21 13:57:52   Upgrade-Insecure-Requests: 1
+2023/11/21 13:57:52   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+2023/11/21 13:57:52 Body: [Empty]
+2023/11/21 13:57:52 Form Values: [None]
+2023/11/21 13:57:52 
+2023/11/21 13:57:52 Time: 2023-11-21T13:57:52+11:00, Method: GET, URL: /favicon.ico, RemoteAddr: [::1]:46544
+2023/11/21 13:57:52 Headers:
+2023/11/21 13:57:52   Connection: keep-alive
+2023/11/21 13:57:52   Sec-Fetch-Mode: no-cors
+2023/11/21 13:57:52   Sec-Fetch-Dest: image
+2023/11/21 13:57:52   Referer: http://localhost:8080/
+2023/11/21 13:57:52   Accept-Encoding: gzip, deflate, br
+2023/11/21 13:57:52   Sec-Ch-Ua: "Google Chrome";v="119", "Chromium";v="119", "Not?A_Brand";v="24"
+2023/11/21 13:57:52   Sec-Ch-Ua-Mobile: ?0
+2023/11/21 13:57:52   Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2023/11/21 13:57:52   Sec-Fetch-Site: same-origin
+2023/11/21 13:57:52   Accept-Language: en-AU,en;q=0.9,vi-VN;q=0.8,vi;q=0.7,ja-JP;q=0.6,ja;q=0.5,en-GB;q=0.4,en-US;q=0.3
+2023/11/21 13:57:52   Cookie: _ga=GA1.1.481496242.1698312425; _ga_JB531XVXS6=GS1.1.1698312425.1.0.1698312427.0.0.0
+2023/11/21 13:57:52   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+2023/11/21 13:57:52   Sec-Ch-Ua-Platform: "Windows"
+2023/11/21 13:57:52   If-Modified-Since: Tue, 21 Nov 2023 02:44:43 GMT
+2023/11/21 13:57:52 Body: [Empty]
+2023/11/21 13:57:52 Form Values: [None]
+2023/11/21 13:57:52 
+2023/11/21 13:57:54 Time: 2023-11-21T13:57:54+11:00, Method: GET, URL: /, RemoteAddr: [::1]:46544
+2023/11/21 13:57:54 Headers:
+2023/11/21 13:57:54   Upgrade-Insecure-Requests: 1
+2023/11/21 13:57:54   Accept-Language: en-AU,en;q=0.9,vi-VN;q=0.8,vi;q=0.7,ja-JP;q=0.6,ja;q=0.5,en-GB;q=0.4,en-US;q=0.3
+2023/11/21 13:57:54   Cookie: _ga=GA1.1.481496242.1698312425; _ga_JB531XVXS6=GS1.1.1698312425.1.0.1698312427.0.0.0
+2023/11/21 13:57:54   Sec-Ch-Ua-Platform: "Windows"
+2023/11/21 13:57:54   Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2023/11/21 13:57:54   Connection: keep-alive
+2023/11/21 13:57:54   Sec-Ch-Ua: "Google Chrome";v="119", "Chromium";v="119", "Not?A_Brand";v="24"
+2023/11/21 13:57:54   Sec-Ch-Ua-Mobile: ?0
+2023/11/21 13:57:54   Sec-Fetch-Mode: navigate
+2023/11/21 13:57:54   Sec-Fetch-Dest: document
+2023/11/21 13:57:54   Sec-Fetch-User: ?1
+2023/11/21 13:57:54   Accept-Encoding: gzip, deflate, br
+2023/11/21 13:57:54   If-Modified-Since: Tue, 21 Nov 2023 02:43:50 GMT
+2023/11/21 13:57:54   Cache-Control: max-age=0
+2023/11/21 13:57:54   User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+2023/11/21 13:57:54   Sec-Fetch-Site: none
+2023/11/21 13:57:54 Body: [Empty]
+2023/11/21 13:57:54 Form Values: [None]
+2023/11/21 13:57:54 
+2023/11/21 13:57:59 Got signal: interrupt, exiting.
+2023/11/21 13:57:59 Error starting USER server: http: Server closed
