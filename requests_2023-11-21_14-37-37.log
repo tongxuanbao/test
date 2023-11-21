@@ -1,0 +1,3 @@
+2023/11/21 14:37:37 Starting USER server on port 8080
+2023/11/21 14:37:54 Got signal: interrupt, exiting.
+2023/11/21 14:37:54 Error starting USER server: http: Server closed
